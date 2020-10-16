@@ -8,7 +8,7 @@ The site was built using a Bootstrap backbone with custom CSS. It is fully mobil
 
 ## Live Link
 A link to the live version of this site can be found below. 
-[Developer Portfolio](https://jesseodonoghue.github.io/my-portfolio/)
+[Developer Portfolio](https://jesseodonoghue.github.io)
 
 ## License Info
 Copyright 2020, Jesse O'Donoghue

@@ -88,6 +88,13 @@ i {
   margin-bottom: 20px;
 }
 
+.project {  
+  margin: 10px;
+  padding: 12px;
+  border: 1px solid #dee2e6;
+  border-radius: .25rem;
+}
+
 /* Footer */
 
 .footer {

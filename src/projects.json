@@ -1,0 +1,44 @@
+[
+  {
+    "img": "/img/react-employee-directory.png",
+    "url": "https://github.com/jesseodonoghue/react-employee-directory",
+    "title": "React Employee Directory",
+    "description": "For this project I created an employee directory using React that is both searchable and filterable. Each profile has a working location link as well as a working telephone link."
+  },
+  {
+    "img": "/img/coffee-hut.png",
+    "url": "https://github.com/jesseodonoghue/project-2",
+    "title": "Coffee Hut",
+    "description": "CoffeeHut is a web based application through which a user can order craft coffee drinks from their local coffee shop, CoffeeHut. This application uses Express, Handlebars, MySQL, Sequelize, and Passport."
+  },
+  {
+    "img": "/img/movie-search-app.png",
+    "url": "https://github.com/wilsoncollin7/project1",
+    "title": "Movie Search App",
+    "description": "With this app our team created an interactive movie dashboard using the APIs to pull movie information, review information, and theater data close to the user's zip code."
+  },
+  {
+    "img": "/img/quiz-game.png",
+    "url": "https://github.com/jesseodonoghue/quiz-game",
+    "title": "JavaScript Quiz Game",
+    "description": "In this app I created a timed quiz game powered completely by JavaScript with high score data being stored locally."
+  },
+  {
+    "img": "/img/password-generator.png",
+    "url": "https://github.com/jesseodonoghue/password-generator",
+    "title": "Password Generator",
+    "description": "In this app the user picks several criteria as well as a length to generate a random strong password. The password is then displayed in the text box."
+  },
+  {
+    "img": "/img/express-note-taker.png",
+    "url": "https://github.com/jesseodonoghue/express-note-taker",
+    "title": "Express Note Taker",
+    "description": "In this app I created an express server that stores, displays, and deletes notes that have been supplied by the user via an HTML interface."
+  },
+  {
+    "img": "/img/workday-scheduler.png",
+    "url": "https://github.com/jesseodonoghue/work-day-scheduler",
+    "title": "Workday Scheduler",
+    "description": "In this app I created functionality for saving tasks to a local work day calendar. The tasks are color coded based on current time of day."
+  }  
+]

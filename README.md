@@ -2,7 +2,7 @@
 I am studying full stack web development at the University of North Carolina. I am expanding my new skills in HTML, CSS, JavaScript, Node.js, and React to find employment as a Junior Web Developer. I love the challenge that coding offers, I love collaborating with others, and I look forward to putting my new skills to use. 
 
 ## Site Breakdown
-The site was built using a Bootstrap backbone with custom CSS. It is fully mobile responsive.
+The site was built using a React backbone with Bootstrap and React Router. It is fully mobile responsive.
 
 ![Portfolio Page](https://user-images.githubusercontent.com/66024509/90566016-c887fd00-e175-11ea-8840-4da4bfefaf73.png)
 
